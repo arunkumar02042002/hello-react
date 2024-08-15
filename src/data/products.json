@@ -1,0 +1,144 @@
+{
+    "items": [
+        {
+            "id": 0,
+            "title": "Title of this Item 1",
+            "price": 450,
+            "discountedPrice": 340,
+            "thumbnail": "laptop.avif"
+        },
+        {
+            "id": 1,
+            "title": "Title of this Item 2",
+            "price": 100,
+            "discountedPrice": 80,
+            "thumbnail": "laptop.avif"
+        },
+        {
+            "id": 2,
+            "title": "Title of this Item 3",
+            "price": 299,
+            "discountedPrice": 250,
+            "thumbnail": "laptop.avif"
+        },
+        {
+            "id": 3,
+            "title": "Title of this Item 4",
+            "price": 750,
+            "discountedPrice": 650,
+            "thumbnail": "laptop.avif"
+        },
+        {
+            "id": 4,
+            "title": "Title of this Item 5",
+            "price": 120,
+            "discountedPrice": 90,
+            "thumbnail": "laptop.avif"
+        },
+        {
+            "id": 5,
+            "title": "Title of this Item 6",
+            "price": 220,
+            "discountedPrice": 180,
+            "thumbnail": "laptop.avif"
+        },
+        {
+            "id": 6,
+            "title": "Title of this Item 7",
+            "price": 899,
+            "discountedPrice": 750,
+            "thumbnail": "laptop.avif"
+        },
+        {
+            "id": 7,
+            "title": "Title of this Item 8",
+            "price": 150,
+            "discountedPrice": 120,
+            "thumbnail": "laptop.avif"
+        },
+        {
+            "id": 8,
+            "title": "Title of this Item 9",
+            "price": 500,
+            "discountedPrice": 450,
+            "thumbnail": "laptop.avif"
+        },
+        {
+            "id": 9,
+            "title": "Title of this Item 10",
+            "price": 60,
+            "discountedPrice": 50,
+            "thumbnail": "laptop.avif"
+        },
+        {
+            "id": 10,
+            "title": "Title of this Item 11",
+            "price": 200,
+            "discountedPrice": 170,
+            "thumbnail": "laptop.avif"
+        },
+        {
+            "id": 11,
+            "title": "Title of this Item 12",
+            "price": 80,
+            "discountedPrice": 70,
+            "thumbnail": "laptop.avif"
+        },
+        {
+            "id": 12,
+            "title": "Title of this Item 13",
+            "price": 340,
+            "discountedPrice": 300,
+            "thumbnail": "laptop.avif"
+        },
+        {
+            "id": 13,
+            "title": "Title of this Item 14",
+            "price": 270,
+            "discountedPrice": 220,
+            "thumbnail": "laptop.avif"
+        },
+        {
+            "id": 14,
+            "title": "Title of this Item 15",
+            "price": 125,
+            "discountedPrice": 100,
+            "thumbnail": "laptop.avif"
+        },
+        {
+            "id": 15,
+            "title": "Title of this Item 16",
+            "price": 800,
+            "discountedPrice": 720,
+            "thumbnail": "laptop.avif"
+        },
+        {
+            "id": 16,
+            "title": "Title of this Item 17",
+            "price": 90,
+            "discountedPrice": 70,
+            "thumbnail": "laptop.avif"
+        },
+        {
+            "id": 17,
+            "title": "Title of this Item 18",
+            "price": 175,
+            "discountedPrice": 150,
+            "thumbnail": "laptop.avif"
+        },
+        {
+            "id": 18,
+            "title": "Title of this Item 19",
+            "price": 130,
+            "discountedPrice": 110,
+            "thumbnail": "laptop.avif"
+        },
+        {
+            "id": 19,
+            "title": "Title of this Item 20",
+            "price": 60,
+            "discountedPrice": 45,
+            "thumbnail": "laptop.avif"
+        }
+    ]    
+}
